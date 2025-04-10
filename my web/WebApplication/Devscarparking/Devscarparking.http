@@ -1,0 +1,6 @@
+@Devscarparking_HostAddress = http://localhost:5076
+
+GET {{Devscarparking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
